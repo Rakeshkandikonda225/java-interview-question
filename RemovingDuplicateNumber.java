@@ -1,6 +1,7 @@
 import java.util.*;
 
-class RemovingDuplicateNumber{
+public class RemovingDuplicateNumber
+{
 
 public static void main(String [] arg)
 {
