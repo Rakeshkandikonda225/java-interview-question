@@ -9,7 +9,8 @@ public static void main(String [] arg)
 	list.stream()
 			.distinct()
 	.forEach(System.out::println);
-	
+
+	System.out.print("Hi");
 	
 	
 }
