@@ -2,7 +2,7 @@ class Prime_Number
 {
 	public static void main(String[]args)
 	{
-		int num = 9;
+		int num = 10;
 		boolean isPrime=true;
 		for(int i=2; i<=Math.sqrt(num); i++)
 		{
